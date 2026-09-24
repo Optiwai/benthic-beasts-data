@@ -1,6 +1,6 @@
 # Benthic Beasts · open data
 
-Data behind the maps and charts of the [Benthic Beasts](https://www.youtube.com/@benthicbeasts) YouTube channel: documentaries about deep-sea animals built from real expedition footage, open scientific data and peer-reviewed sources.
+Data behind the maps and charts of the [Benthic Beasts](https://www.youtube.com/@benthicbeasts1) YouTube channel: documentaries about deep-sea animals built from real expedition footage, open scientific data and peer-reviewed sources.
 
 Each folder is one video. It contains the exact records used on screen, the list of source datasets with their licences, and how the data were filtered.
 
