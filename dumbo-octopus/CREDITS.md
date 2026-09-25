@@ -1,4 +1,4 @@
-# Data credits · The Dumbo Octopus: 4 Myths, 1 Record and What Science Still Can't Explain
+# Data credits · Dumbo Octopus: The 1.8 m Giant With No Traceable Source
 
 Occurrence records shown in the map and depth chart of the video, grouped by source dataset. Retrieved from GBIF.org and OBIS on 2026-09-17. Only records licensed CC0 or CC BY were used; each record keeps the licence of its dataset.
 

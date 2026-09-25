@@ -1,4 +1,4 @@
-# The Dumbo Octopus: 4 Myths, 1 Record and What Science Still Can't Explain
+# Dumbo Octopus: The 1.8 m Giant With No Traceable Source
 
 Open data behind the distribution map and depth chart of this Benthic Beasts video.
 
