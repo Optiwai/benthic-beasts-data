@@ -13,3 +13,4 @@ Each folder is one video. It contains the exact records used on screen, the list
 
 - [The Dumbo Octopus: 4 Myths, 1 Record and What Science Still Can't Explain](dumbo-octopus/) · data retrieved 2026-09-17
 - [The Deep Sea Octopus That Guarded Her Eggs 53 Months](warty-deep-sea-octopus/) · data retrieved 2026-09-25
+- [Ghost Sharks: The Fish With Teeth on Its Forehead](ghost-sharks-chimaeras/) · data retrieved 2026-09-25
