@@ -1,16 +1,16 @@
 # The Oldest Anglerfish Has No Light — and It Walks
 
-Open data behind the distribution map and depth chart of this Benthic Beasts video.
+Open data behind the world map of this Benthic Beasts video.
 
 | File | What it is |
 |---|---|
-| `occurrences.csv` | Every usable record of *Lophiidae* retrieved from GBIF.org and OBIS on 2026-10-05 (12269 records). Column `usable_mapa` = `si` marks the 12269 records drawn on the map; `qc_flags` explains any exclusion |
+| `occurrences.csv` | Every usable record of *Lophiidae* retrieved from GBIF.org and OBIS on 2026-10-05 (12269 records). The map in the video draws only the 1386 records with a depth between 500 and 2,000 m (column `depth`); deeper records were left out as probable depth or trawl errors; `qc_flags` explains any exclusion |
 | `gbif_datasets.csv` | GBIF datasets and number of records used from each, as registered for the GBIF derived-dataset DOI |
 | `CREDITS.md` | Every source dataset, its publisher, licence and link |
 
 ## How the data were prepared
 
-1. All occurrence records with coordinates were downloaded from the GBIF and OBIS APIs on 2026-10-05.
+1. All occurrence records of the family Lophiidae with coordinates and a depth of 200 m or more were downloaded from the GBIF and OBIS APIs on 2026-10-05 (most shallower records are commercial monkfish, *Lophius*).
 2. Only records whose dataset licence is **CC0 or CC BY** were kept (non-commercial, share-alike and no-derivatives licences were excluded, as were records with no licence).
 3. OBIS records that duplicate a GBIF record (same coordinates to two decimals, date and rounded depth) were removed; if the two copies carried different licences, the more restrictive one applied.
 4. Records were flagged, not deleted, for quality issues: placeholder or whole-degree coordinates, type-locality entries, unusually shallow depths or very wide depth ranges.

@@ -1,6 +1,6 @@
 # Data credits · The Oldest Anglerfish Has No Light — and It Walks
 
-Occurrence records shown in the map and depth chart of the video, grouped by source dataset. Retrieved from GBIF.org and OBIS on 2026-10-05. Only records licensed CC0 or CC BY were used; each record keeps the licence of its dataset.
+Occurrence records behind the world map of the video, grouped by source dataset. Retrieved from GBIF.org and OBIS on 2026-10-05. Only records licensed CC0 or CC BY were used; each record keeps the licence of its dataset.
 
 | Source | Dataset | Publisher | Licence | Records used | Link |
 |---|---|---|---|---|---|
