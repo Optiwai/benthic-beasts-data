@@ -19,4 +19,6 @@ The figures on screen in the video say "retrieved October 2026": they are exactl
 
 ## Citation
 
-Please cite the GBIF derived dataset DOI listed in the video description, and the individual datasets in `CREDITS.md`.
+GBIF.org (5 October 2026) Filtered export of GBIF occurrence data https://doi.org/10.15468/dd.5f89as
+
+Please cite this DOI and, where possible, the individual datasets in `CREDITS.md`.
