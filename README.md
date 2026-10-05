@@ -15,3 +15,4 @@ Each folder is one video. It contains the exact records used on screen, the list
 - [The Deep Sea Octopus That Guarded Her Eggs 53 Months](warty-deep-sea-octopus/) · data retrieved 2026-09-25
 - [Ghost Sharks: The Fish With Teeth on Its Forehead](ghost-sharks-chimaeras/) · data retrieved 2026-09-25
 - [Why the Headless Chicken Monster Leaves the Mud](headless-chicken-monster/) · data retrieved 2026-09-26
+- [Deep-sea goosefishes (Lophiidae)](deep-sea-goosefish/) · data retrieved 2026-10-05
